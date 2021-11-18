@@ -27,6 +27,8 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 * [Explaining Player Valuations](https://explaining-player-valuations.herokuapp.com/)
 * [worldfootballR Scouting App](https://worldfootballr-scout.herokuapp.com/)
 
+***
+
 
 ## 📊📈📉 Data Visualisations
 
