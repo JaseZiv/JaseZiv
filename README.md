@@ -17,6 +17,7 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 ## 📦 Packages Created
 
 * [worldfootballR](https://github.com/JaseZiv/worldfootballR)
+<img align='right' src="https://github.com/JaseZiv/worldfootballR/raw/main/man/figures/logo.png" width="230">
 * [chessR](https://github.com/JaseZiv/chessR)
 
 ***
