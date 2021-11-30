@@ -19,6 +19,11 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 * [worldfootballR](https://github.com/JaseZiv/worldfootballR)
 * [chessR](https://github.com/JaseZiv/chessR)
 
+
+### Contributed
+
+* [fitzRoy](https://github.com/jimmyday12/fitzRoy)
+
 ***
 
 ## 📱 Applications
