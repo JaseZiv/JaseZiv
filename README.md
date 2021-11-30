@@ -30,7 +30,32 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 ***
 
 
-## 📊📈📉 Data Visualisations
+## 📊📈📉 Popular Posts
+
+***Getting started with R and `worldfootballR`***
+
+This post takes the reader on the steps necessary to download and install R and `worldfootballR` and get started with no coding experience:
+https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/
+
+***Predicting AFL crowd attendance***
+
+A post pre-COVID that attempted to predict the size of AFL crowds:
+https://www.dontblamethedata.com/blog/building-a-linear-regression-model-in-r-to-predict-afl-crowds/
+
+***Finding the AFL 'Bandwagon supporters' teams***
+
+A tongue-in-cheek attempt to quantify the term 'bandwagon jumpers' of team supporters in the AFL:
+https://www.dontblamethedata.com/blog/using-data-to-determine-which-afl-fans-jump-onthe-bandwagon/
+
+***FIFA19 data deep dive***
+
+An early analysis I did on Kaggle that took a deep look at player data from the popular game series FIFA to help players identify players to target for career leagues:
+https://www.kaggle.com/jaseziv83/clustering-to-help-club-managers
+
+***NCAA Men's March Madness***
+
+Another Kaggle EDA for the annual March Madness competition run by Kaggle:
+https://www.kaggle.com/jaseziv83/a-recent-deep-look-at-the-men-s-ncaab
 
 
 <!--
