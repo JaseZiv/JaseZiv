@@ -17,10 +17,20 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 ## 📦 Packages Created
 
 * [worldfootballR](https://github.com/JaseZiv/worldfootballR)
+
+A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob
+
 * [chessR](https://github.com/JaseZiv/chessR)
+
+An R package designed to extract and analyse chess game data played on Lichess and chess.com
+
 * [nblR](https://github.com/JaseZiv/nblR)
+
+To quickly and efficiently load Australian basketball statistics from the NBL
+
 * [bettRtab](https://github.com/JaseZiv/bettRtab)
-<img src="[man/figures/logo.png](https://github.com/JaseZiv/bettRtab/blob/main/man/figures/logo.png)" align="left" width="70" height="80"/>
+
+An R client to interact with the API of Australian betting company TAB
 
 
 ### Contributed
