@@ -18,6 +18,9 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 
 * [worldfootballR](https://github.com/JaseZiv/worldfootballR)
 * [chessR](https://github.com/JaseZiv/chessR)
+* [nblR](https://github.com/JaseZiv/nblR)
+* [bettRtab](https://github.com/JaseZiv/bettRtab)
+<img src="[man/figures/logo.png](https://github.com/JaseZiv/bettRtab/blob/main/man/figures/logo.png)" align="left" width="70" height="80"/>
 
 
 ### Contributed
