@@ -18,6 +18,8 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 
 * [worldfootballR](https://github.com/JaseZiv/worldfootballR)
 
+<a href='https://jaseziv.github.io/worldfootballR/'><img src='https://github.com/JaseZiv/worldfootballR/raw/main/man/figures/logo.png' width="18%" min-width="100px" />
+
 A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob
 
 * [chessR](https://github.com/JaseZiv/chessR)
