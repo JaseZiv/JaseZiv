@@ -14,6 +14,11 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 
 ***
 
+<a href="https://www.buymeacoffee.com/jaseziv83A" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Coffee (Server Time)" height="41" width="174"></a>
+
+
+***
+
 ## 📦 Packages Created
 
 <a href='https://jaseziv.github.io/worldfootballR/'><img src='https://github.com/JaseZiv/worldfootballR/raw/main/man/figures/logo.png' width="18%" min-width="100px" /></a></a><a href='https://jaseziv.github.io/nblR/'><img src='https://github.com/JaseZiv/nblR/raw/main/man/figures/logo.png' width="18%" min-width="100px" /></a><a href='https://jaseziv.github.io/bettRtab/'><img src='https://github.com/JaseZiv/bettRtab/raw/main/man/figures/logo.png' width="18%" min-width="100px" /><a href='https://jaseziv.github.io/chessR/'><img src='https://github.com/JaseZiv/chessR/raw/master/man/figures/logo.png' width="18%" min-width="100px" /></a>
