@@ -21,10 +21,11 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 
 ## 📦 Packages Created
 
-<a href='https://jaseziv.github.io/worldfootballR/'><img src='https://github.com/JaseZiv/worldfootballR/raw/main/man/figures/logo.png' width="18%" min-width="100px" /></a></a><a href='https://jaseziv.github.io/nblR/'><img src='https://github.com/JaseZiv/nblR/raw/main/man/figures/logo.png' width="18%" min-width="100px" /></a><a href='https://jaseziv.github.io/bettRtab/'><img src='https://github.com/JaseZiv/bettRtab/raw/main/man/figures/logo.png' width="18%" min-width="100px" /><a href='https://jaseziv.github.io/chessR/'><img src='https://github.com/JaseZiv/chessR/raw/master/man/figures/logo.png' width="18%" min-width="100px" /></a>
+<a href='https://jaseziv.github.io/worldfootballR/'><img src='https://github.com/JaseZiv/worldfootballR/raw/main/man/figures/logo.png' width="18%" min-width="100px" /></a></a><a href='https://jaseziv.github.io/nblR/'><img src='https://github.com/JaseZiv/nblR/raw/main/man/figures/logo.png' width="18%" min-width="100px" /></a><a href='https://jaseziv.github.io/euroleagueR/'><img src='https://github.com/JaseZiv/euroleagueR/raw/main/man/figures/logo.png' width="18%" min-width="100px" /></a><a href='https://jaseziv.github.io/bettRtab/'><img src='https://github.com/JaseZiv/bettRtab/raw/main/man/figures/logo.png' width="18%" min-width="100px" /><a href='https://jaseziv.github.io/chessR/'><img src='https://github.com/JaseZiv/chessR/raw/master/man/figures/logo.png' width="18%" min-width="100px" /></a>
 
 * **worldfootballR** - A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob
 * **nblR** - To quickly and efficiently load Australian basketball statistics from the NBL
+* **euroleagueR** - To quickly and efficiently load Euroleague basketball statistics
 * **bettRtab** - An R client to interact with the API of Australian betting company TAB
 * **chessR** - An R package designed to extract and analyse chess game data played on Lichess and chess.com
 
