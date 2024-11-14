@@ -40,9 +40,9 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 
 ## 📱 Applications
 
+* [NBL Win Probability](https://nbl-r-shiny.herokuapp.com/) - In-game win probability for the Australian National Basketball League (NBL)
 * [Expected vs Actual Season Performance for the Big Five Euro Leagues](https://xg-performance-app.herokuapp.com/)
-* [Explaining Player Valuations](https://explaining-player-valuations.herokuapp.com/)
-* [worldfootballR Scouting App](https://worldfootballr-scout.herokuapp.com/)
+
 
 ***
 
@@ -54,6 +54,11 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 This post takes the reader on the steps necessary to download and install R and `worldfootballR` and get started with no coding experience:
 https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/
 
+***Rating the Difficulty of the Big 3’s Grand Slam Wins***
+
+This post uses Elo ratings to understand the difficulty of each of the Big 3's grand slam wins:
+https://www.dontblamethedata.com/blog/big3-grand-slam-difficulty/
+
 ***Predicting AFL crowd attendance***
 
 A post pre-COVID that attempted to predict the size of AFL crowds:
@@ -64,15 +69,6 @@ https://www.dontblamethedata.com/blog/building-a-linear-regression-model-in-r-to
 A tongue-in-cheek attempt to quantify the term 'bandwagon jumpers' of team supporters in the AFL:
 https://www.dontblamethedata.com/blog/using-data-to-determine-which-afl-fans-jump-onthe-bandwagon/
 
-***FIFA19 data deep dive***
-
-An early analysis I did on Kaggle that took a deep look at player data from the popular game series FIFA to help players identify players to target for career leagues:
-https://www.kaggle.com/jaseziv83/clustering-to-help-club-managers
-
-***NCAA Men's March Madness***
-
-Another Kaggle EDA for the annual March Madness competition run by Kaggle:
-https://www.kaggle.com/jaseziv83/a-recent-deep-look-at-the-men-s-ncaab
 
 
 <!--
