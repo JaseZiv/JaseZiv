@@ -6,11 +6,12 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 
 ### Contact Me!
 
-[![Personal Website Badge](https://img.shields.io/badge/dontblamethedata.com-019FD9?style=flat&logo=web&logoColor=white)](https://www.dontblamethedata.com/)
-[![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jaseziv83@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/jaseziv)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-zivkovic-4a0a1926/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eddwebster)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eddwebster)
+[![Blog Badge](https://img.shields.io/badge/dontblamethedata.com-f2d49d?style=for-the-badge&logo=blogger&logoColor=white)](https://www.dontblamethedata.com/)
+[![Bluesky Badge](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/jaseziv.bsky.social)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-zivkovic-4a0a1926/)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaseziv83@gmail.com)
+
 
 ***
 
@@ -21,13 +22,14 @@ My name is Jason, and I'm a Data Scientist at the [Reece Group](https://group.re
 
 ## 📦 Packages Created
 
-<a href='https://jaseziv.github.io/worldfootballR/'><img src='https://github.com/JaseZiv/worldfootballR/raw/main/man/figures/logo.png' width="18%" min-width="100px" /></a></a><a href='https://jaseziv.github.io/nblR/'><img src='https://github.com/JaseZiv/nblR/raw/main/man/figures/logo.png' width="18%" min-width="100px" /></a><a href='https://jaseziv.github.io/euroleagueR/'><img src='https://github.com/JaseZiv/euroleagueR/raw/main/man/figures/logo.png' width="18%" min-width="100px" /></a><a href='https://jaseziv.github.io/bettRtab/'><img src='https://github.com/JaseZiv/bettRtab/raw/main/man/figures/logo.png' width="18%" min-width="100px" /><a href='https://jaseziv.github.io/chessR/'><img src='https://github.com/JaseZiv/chessR/raw/master/man/figures/logo.png' width="18%" min-width="100px" /></a>
+<img src='https://github.com/JaseZiv/JaseZiv/blob/main/hexwall.png?raw=true' width="50%" min-width="100px" />
 
-* **worldfootballR** - A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob
-* **nblR** - To quickly and efficiently load Australian basketball statistics from the NBL
-* **euroleagueR** - To quickly and efficiently load Euroleague basketball statistics
-* **bettRtab** - An R client to interact with the API of Australian betting company TAB
-* **chessR** - An R package designed to extract and analyse chess game data played on Lichess and chess.com
+* [**worldfootballR**](https://jaseziv.github.io/worldfootballR/) - A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob
+* [**chessR**](https://jaseziv.github.io/chessR/index.html) - An R package designed to extract and analyse chess game data played on Lichess and chess.com
+* [**nblR**](https://jaseziv.github.io/nblR/) - To quickly and efficiently load Australian basketball statistics from the NBL
+* [**euroleagueR**](https://jaseziv.github.io/euroleagueR/) - To quickly and efficiently load Euroleague basketball statistics
+* [**bettRtab**](https://jaseziv.github.io/bettRtab/) - An R client to interact with the API of Australian betting company TAB
+
 
 
 ### Contributed
